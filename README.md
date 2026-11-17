@@ -1,56 +1,42 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Nimz+%F0%9F%91%8B;Developer+%7C+Cybersecurity+Enthusiast;Learning+AI+%26+Emerging+Tech;Building+thoughtful+digital+experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&width=560&lines=Hi%2C+I%E2%80%99m+Nimz+%F0%9F%91%8B;Developer+%7C+Technology+Enthusiast;Exploring+Cybersecurity%2C+Games+%26+AI" alt="Hi, I'm Nimz — developer and technology enthusiast" />
 
-# ✨ Nimz
+### Developer · Cybersecurity Enthusiast · Tech Explorer
 
-### 👨‍💻 Developer • 🛡️ Cybersecurity Enthusiast • 🚀 Tech Explorer
+*Learning by building, exploring, and staying curious.*
 
-*Curious, creative, and always learning.*
+[Email](mailto:nimz.wait@gmail.com) · [GitHub](https://github.com/TrulyNimz)
 
-[📬 Email](mailto:nimz.wait@gmail.com) • [🐙 GitHub](https://github.com/TrulyNimz)
+<img src="https://komarev.com/ghpvc/?username=TrulyNimz&label=Profile%20views&color=7C3AED&style=flat" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👋 About Me
+### 👋 About
 
-I’m a technology-focused developer with interests in software development, cybersecurity, game technology, and artificial intelligence. I enjoy learning through hands-on projects, experimenting with new ideas, and building work that is both practical and meaningful.
+I’m interested in how technology works and how it can be used to create useful, thoughtful experiences. I’m building my skills through hands-on projects and exploring software development, cybersecurity, game technology, and AI.
 
-## 🌱 Current Focus
+### 🌱 Currently exploring
 
-- Learning AI and emerging technologies
-- Strengthening software development fundamentals
-- Exploring cybersecurity and secure systems
-- Developing creative and innovative digital experiences
+- Artificial intelligence and emerging technology
+- Software development and practical project work
+- Cybersecurity and secure design
+- Game technology and interactive experiences
 
-## 🔍 Areas of Interest
+### 🧭 Interests
 
-💻 Software Development  •  🔐 Cybersecurity  •  🎮 Game Technology  •  🤖 AI & Emerging Tech
+💻 Software · 🔐 Cybersecurity · 🎮 Game technology · 🤖 AI
 
-## 🤝 Collaboration
+### 🤝 Let’s connect
 
-I’m open to collaborating on projects involving:
-
-- Game development and interactive experiences
-- Cybersecurity and security-focused ideas
-- AI and emerging technology experiments
-- Creative software projects that challenge and grow my skills
-
-## 📫 Get in Touch
-
-If you'd like to connect, collaborate, or talk about technology, feel free to reach out:
-
-- Email: nimz.wait@gmail.com
-- GitHub: [TrulyNimz](https://github.com/TrulyNimz)
+Interested in learning and collaborating on creative technology projects. Feel free to [send me an email](mailto:nimz.wait@gmail.com).
 
 ---
 
 <div align="center">
 
-✨ *Passionate about learning, building, and growing with technology.* ✨
-
-<img src="https://komarev.com/ghpvc/?username=TrulyNimz&label=PROFILE+VIEWS&color=8B5CF6&style=flat" alt="Profile Views" />
+*Curious by nature. Always learning.* ✨
 
 </div>
