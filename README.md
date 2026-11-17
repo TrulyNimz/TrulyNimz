@@ -1,52 +1,31 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nimz+%F0%9F%91%8B;Developer+%7C+Cybersecurity+Enthusiast;Game+Technology+Explorer;AI+%26+Emerging+Tech+Learner" alt="Typing SVG" />
+
+# Nimz
+
+**Developer · Cybersecurity Enthusiast · Curious Technologist**
+
+Building skills, exploring ideas, and making useful things with technology.
+
+[Email](mailto:nimz.wait@gmail.com) · [GitHub](https://github.com/TrulyNimz)
+
 </div>
 
-# Hi, I’m Nimz 👋
+---
 
-I’m a technology-focused developer with a strong interest in cybersecurity, software development, gaming, and emerging technologies. I enjoy building projects that challenge me, expand my skill set, and contribute to meaningful real-world solutions.
+### A little about me
 
-## About Me
+I’m interested in how technology works—and how to use it thoughtfully. My current explorations span software development, cybersecurity, game technology, and artificial intelligence.
 
-- Passionate about coding, problem-solving, and continuous learning
-- Interested in cyber security, game development, and modern software engineering
-- Exploring the intersections of AI, technology, and user-focused innovation
-- Committed to improving my technical abilities through practical projects and collaboration
+### Exploring
 
-## Current Focus
+`Software Development` · `Cybersecurity` · `Game Technology` · `Artificial Intelligence`
 
-- Learning artificial intelligence and emerging technologies
-- Strengthening my understanding of software architecture and development workflows
-- Exploring cybersecurity principles and secure application design
-- Building projects that combine creativity, technical depth, and real-world value
-
-## Areas of Interest
-
-- Software development
-- Cybersecurity
-- Game development
-- Artificial intelligence
-- Technology and digital innovation
-
-## Collaboration
-
-I’m open to collaborating on projects involving:
-
-- Game development and interactive experiences
-- Software engineering and application development
-- Cybersecurity-related initiatives
-- AI and emerging technology experiments
-- Meaningful team projects that encourage growth and learning
-
-## Contact
-
-- Email: nimz.wait@gmail.com
-- GitHub: @TrulyNimz
-
-I’m always open to connecting, learning, and building something valuable together.
+I’m learning through hands-on projects, experimentation, and collaboration. I’m especially glad to connect with people building thoughtful projects in these areas.
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TrulyNimz&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
+
+*Curious by nature. Always learning.*
+
 </div>
